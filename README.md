@@ -35,11 +35,6 @@ Welcome to my GitHub profile! I use this space to document and share the project
 
 ---
 
-## 😄 Pronouns: 
-He/Him  
-
----
-
 ## ⚡ Fun fact:  
 Before my PhD and consulting work at McKinsey, I founded a startup helping Amazon sellers grow—and once hosted TEDx events in Berlin!
 
